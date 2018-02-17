@@ -1,0 +1,55 @@
+/* add your CSS here */
+body{
+    border: solid;
+    border-color: grey;
+    border-width: 2px;
+    max-width:350px;
+    margin-left: 40%;
+    box-shadow: 5px 5px darkgray;
+
+}
+
+
+img {
+    max-width: 300px;
+    padding-bottom: 25px;
+    margin-left: 25px;
+    margin-right: 25px;
+
+}
+div {
+    text-align: center;
+
+}
+ul  {
+
+    list-style-type: none;
+    text-align: left;
+    padding-left: 0;
+}
+.italy {
+    font-style: italic;
+    text-align: left;
+    margin-left: 5px;
+}
+.border {
+    border: solid;
+    border-color: grey;
+    border-width: 2px;
+    max-width: 296px;
+    margin-left: 25px;
+    margin-bottom: 25px;
+    padding-top: 0;
+    margin-right: 25px;
+}
+.bold {
+    font-weight: bold;
+}
+.spec {
+    margin-left: 5px;
+    text-align: left;
+}
+h3 {
+    text-align: left;
+    margin-left: 25px;
+}
